@@ -13,7 +13,7 @@
 </div>
 
 ## [002 - stack]
-> **"Everything's connected"**
+> **"Everything's connected."**
 <div align="center">
   
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -34,7 +34,7 @@
 </div>
 
 ## [003 - latest projects]
-> **"What isn't remembered never happened"**
+> **"What isn't remembered never happened."**
 
 * [Actix Login](https://github.com/Kaucrow/SimpleProjects/tree/main/ActixLogin) - An auth system built using Rust's Actix-web framework.
 * [Thesis record builder](https://github.com/Kaucrow/SimpleProjects/tree/main/ThesisRecordBuilder) - A program to update a university's thesis records using OCR and/or .docx files.
