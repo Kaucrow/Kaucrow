@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=32&letterSpacing=8px&duration=0.001&pause=999999&color=83C092&center=true&vCenter=true&width=600&lines=Kaucrow" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=26&letterSpacing=8px&duration=3000&pause=1000&color=6CA37A&center=true&vCenter=true&width=600&lines=Computer+engineering+student;Learning+every+day;Currently+in+the+wired" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**Kaucrow/Kaucrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [001 - whoami]
+> **"No matter where you go, everyone's connected."**
+<div align="center">
+  
+  **`Kaucrow // Javier Pérez // Digital wanderer`**
+  
+  A computer engineering student, interested in web development, game AI, and physics engines. Arch Linux user and Rust enjoyer.
+</div>
 
-Here are some ideas to get you started:
+## [002 - stack]
+> **"Everything's connected"**
+<div align="center">
+  
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Actix](https://img.shields.io/badge/Actix-web?style=for-the-badge&logo=actix&color=%230a141c)
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [003 - latest projects]
+> **"What isn't remembered never happened"**
+
+* [Actix Login](https://github.com/Kaucrow/SimpleProjects/tree/main/ActixLogin) - An auth system built using Rust's Actix-web framework.
+* [Thesis record builder](https://github.com/Kaucrow/SimpleProjects/tree/main/ThesisRecordBuilder) - A program to update a university's thesis records using OCR and/or .docx files.
+* Fisiks - An upcoming game physics engine built for learning purposes, written in C++, with demos powered by OpenGL.
+
+## [004 - contact]
+> **"Connection is inevitable, even in the silence."**
+* Email: kaucrow@protonmail.com
