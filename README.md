@@ -38,7 +38,7 @@
 ## [003 - latest projects]
 > **"What isn't remembered never happened."**
 
-* [Actix Login](https://github.com/Kaucrow/SimpleProjects/tree/main/ActixLogin) - An auth system built using Rust's Actix-web framework.
+* [Nexis](https://github.com/Kaucrow/nexis) - A mall management WebApp built using Rust's Actix-web framework and MongoDB Atlas.
 * [Thesis record builder](https://github.com/Kaucrow/SimpleProjects/tree/main/ThesisRecordBuilder) - A program to update a university's thesis records using OCR and/or .docx files.
 * Fisiks - An upcoming game physics engine built for learning purposes, written in C++, with demos powered by OpenGL.
 
